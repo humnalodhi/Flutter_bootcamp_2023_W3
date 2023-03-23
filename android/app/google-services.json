@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205108573197",
+    "project_id": "flutter-bootcamp-2023-w3",
+    "storage_bucket": "flutter-bootcamp-2023-w3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205108573197:android:8de630d3ad65db30741144",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bootcamp_2023_w3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205108573197-iffib7as8nqutrnua0u8nll0j6ae4daf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAudWcEV1fvC2UYOrWwp_1Ub6mwZIYV4Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205108573197-iffib7as8nqutrnua0u8nll0j6ae4daf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
